@@ -1,0 +1,32 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import "bootstrap";
+.custom {
+  margin-top: 20px;
+}
+
+.custom .navbar {
+  margin: 0;
+}
+
+.custom .navbar-inner {
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+}
+
+.custom .carousel {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.custom .carousel-caption {
+  position: static;
+  background: transparent;
+
+}
+
+.custom .content {
+  background-color: #606060
+}
